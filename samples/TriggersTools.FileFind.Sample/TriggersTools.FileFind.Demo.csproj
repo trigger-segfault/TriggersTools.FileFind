@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>netcoreapp2.0;net40</TargetFrameworks>
+    <RootNamespace>TriggersTools.IO.Windows.Demo</RootNamespace>
+    <Copyright>Copyright © Robert Jordan 2018</Copyright>
+    <PackageLicenseUrl>https://github.com/trigger-death/TriggersTools.FileFind/blob/master/License.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/trigger-death/TriggersTools.FileFind</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/trigger-death/TriggersTools.FileFind</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/trigger-death/TriggersTools.FileFind/master/NuGetIcon.png</PackageIconUrl>
+    <PackageReleaseNotes>Demo</PackageReleaseNotes>
+    <PackageTags>file, system, find, search, enumerate, windows, directory, demo</PackageTags>
+    <Description>A demo for the TriggersTools.FileFind library.</Description>
+    <Authors>Robert Jordan</Authors>
+    <Company>Trigger's Tools &amp; Games</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\TriggersTools.FileFind\TriggersTools.FileFind.csproj" />
+  </ItemGroup>
+
+</Project>

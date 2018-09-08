@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net40</TargetFrameworks>
+    <RootNamespace>TriggersTools.IO.Windows</RootNamespace>
+    <Copyright>Copyright © Robert Jordan 2018</Copyright>
+    <Company>Trigger's Tools &amp; Games</Company>
+    <RepositoryUrl>https://github.com/trigger-death/TriggersTools.FileFind</RepositoryUrl>
+    <PackageTags>file, system, find, search, enumerate, windows, directory</PackageTags>
+    <Description>An improvement on Window's existing .NET Framework API for finding files. Enumeration no longer fails when encountering a secure file. File numeration is a little bit faster. Added support for matching file names by Regex.</Description>
+    <PackageLicenseUrl>https://github.com/trigger-death/TriggersTools.FileFind/blob/master/License.md</PackageLicenseUrl>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/trigger-death/TriggersTools.FileFind</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/trigger-death/TriggersTools.FileFind/master/NuGetIcon.png</PackageIconUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Robert Jordan</Authors>
+  </PropertyGroup>
+
+</Project>
