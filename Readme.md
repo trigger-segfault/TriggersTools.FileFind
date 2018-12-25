@@ -3,6 +3,7 @@
 [![NuGet Version](https://img.shields.io/nuget/v/TriggersTools.FileFind.svg?style=flat)](https://www.nuget.org/packages/TriggersTools.FileFind/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/TriggersTools.FileFind.svg?style=flat)](https://www.nuget.org/packages/TriggersTools.FileFind/)
 [![Creation Date](https://img.shields.io/badge/created-september%202018-A642FF.svg?style=flat)](https://github.com/trigger-death/TriggersTools.FileFind/commit/251837eca13d99d4db9af923b1932e5f8b79c5ac)
+[![Discord](https://img.shields.io/discord/436949335947870238.svg?style=flat&logo=discord&label=chat&colorB=7389DC&link=https://discord.gg/vB7jUbY)](https://discord.gg/vB7jUbY)
 
 An improvement on Window's existing .NET Framework API for finding files. Enumeration no longer fails when encountering a secure file. File numeration is a little bit faster. Added support for matching file names by Regex.
 
